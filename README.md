@@ -6,3 +6,5 @@ Projeto de text-to-speech desenvolvido para o PICTEC 2025
 Gabriel Bittar Domingues (@gabrielprof)
 
 Bruna Luíza Ferraz Ramires (@buuru)
+
+Jordana Emanuely Ortiz Bassi (@Jordana829)
