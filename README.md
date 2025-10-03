@@ -7,4 +7,6 @@ Gabriel Bittar Domingues (@gabrielprof)
 
 Bruna Luíza Ferraz Ramires (@buuru)
 
+Emily Mekare Ferreira Gazoni Moreira (@mekareemi)
+
 Jordana Emanuely Ortiz Bassi (@Jordana829)
