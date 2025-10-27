@@ -1,0 +1,6 @@
+{
+    "manifest_version" : "3",
+    "nome" : "Pictec-TTS-2025",
+    "version" : "1.0",
+    "permissions" : ["storage","activeTab","scripiting"]
+}
